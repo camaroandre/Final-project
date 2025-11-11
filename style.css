@@ -1,0 +1,76 @@
+body.welcome-page {
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    /* vh = viewpoint height so like 1 vh is 1 viewpoint height */
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom right, #1ec824, #0cc5cf);
+}
+
+.container {
+    text-align: center;
+    color: white;
+}
+
+h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    letter-spacing: 2px;
+}
+
+.welcome-btn {
+    display: inline-block;
+    padding: 12px 30px;
+    background-color: rgb(172, 17, 17);
+    color: #d9dfe2;
+    font-size: 67px;
+    border-radius: 20px;
+    transition: 1s;
+}
+
+.welcome-btn:hover {
+    background-color: #1e75d8;
+    transform: scale(1.2);
+}
+
+
+
+
+
+
+
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 110px auto;
+  
+  
+}
+
+th, td {
+  border: 1px solid #121212;
+  padding: 10px;
+  text-align: center;
+  margin:auto;
+}
+
+th {
+  background-color: #b7a7a7;
+  font-weight: bold;
+  object-fit: cover;
+}
+
+td img {
+  width: 120px;
+  height: 120px;
+  
+}
+
+body {
+background: linear-gradient(to bottom right, #dfe5df, #494a4a);
+}
+

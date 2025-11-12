@@ -83,3 +83,35 @@ body {
 background: linear-gradient(to bottom right, #dfe5df, #494a4a);
 }
 
+
+
+.to-main-btn-container {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.to-main-btn {
+  display: inline-block;
+  background-color: #a24caf;
+  color: white;
+    padding: 12px 24px;
+
+  border-radius: 15px;
+  font-size: 16px;
+  font-weight: bold;
+    transition: 0.5s;
+
+}
+
+.to-main-btn:hover {
+  background-color: #5b20b3;
+  transform: scale(1.05);
+}
+
+
+
+
+
+
+
+

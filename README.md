@@ -1,10 +1,11 @@
 # Final-project
-group: camaro, william, louis, stewart
+Group: Camaro, William, Louis, Stewart
 
 YOUTUBE TUTORIALS WE USED: https://www.youtube.com/watch?v=biI9OFH6Nmg 
 https://youtu.be/zNkMyssLsIc
- also ms's video and dastan lionez help if we have questions
+ also Ms's video and Dastan Lionez from 8G help if we have any questions.
 
-credits: welcome page camaro, intro page camaro
-   main page: william and stewart 
-   the button that leads intro page to main page: louis
+Credits: 
+Welcome page Camaro, Intro page Camaro
+Main page: William and Stewart 
+The button that leads into page to main page, Louis
